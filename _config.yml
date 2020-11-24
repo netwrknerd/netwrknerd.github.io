@@ -56,31 +56,29 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Christopher Jones"
+  name   : "Chris Jones"
   avatar : "https://avatars3.githubusercontent.com/u/56381413?s=460&v=4"
-  bio    : "Network Engineer @ Expedient"
+  bio    : "Engineer @ Expedient"
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/netwrknerd"
+    - label: "Acclaim"
+      icon: "fab fa-fw fa-acclaim"
+      url: ""
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/netwrknerd"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+    - label: "Keybase"
+      icon: "fab fa-fw fa-keybase"
+      url: ""
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: ""
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/netwrknerd"
+
 
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/netwrknerd"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/netwrknerd"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
 
 defaults:
   # _posts
