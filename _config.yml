@@ -56,22 +56,22 @@ plugins:
   - jekyll-include-cache
 
 author:
-  name   : "Chris Jones"
+  name   : "Christopher Jones"
   avatar : "https://avatars3.githubusercontent.com/u/56381413?s=460&v=4"
-  bio    : "Engineer @ Expedient"
+  bio    : "Network Engineer @ Expedient Data Centers"
   links:
     - label: "Acclaim"
       icon: "fab fa-fw fa-acclaim"
-      url: ""
+      url: "https://youracclaim.com/users/netwrknerd"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/netwrknerd"
     - label: "Keybase"
       icon: "fab fa-fw fa-keybase"
-      url: ""
+      url: "https://keybase.io/netwrknerd"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: ""
+      url: "https://linkedin.com/in/netwrknerd"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/netwrknerd"

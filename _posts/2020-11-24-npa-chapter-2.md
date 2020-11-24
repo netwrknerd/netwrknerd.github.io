@@ -4,7 +4,6 @@ date: 2020-11-24T01:02:00-04:00
 categories:
   - blog
 tags:
-  - network
   - network-automation
 ---
 
