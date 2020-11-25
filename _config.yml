@@ -61,7 +61,7 @@ author:
   bio    : "Network Engineer @ Expedient Data Centers"
   links:
     - label: "Acclaim"
-      icon: "far fa-fw fa-badge-check"
+      icon: "fas fa-fw fa-check-circle"
       url: "https://youracclaim.com/users/netwrknerd"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
