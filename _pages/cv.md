@@ -1,6 +1,7 @@
 ---
-permalink: /resume/
-title: "Resume"
+permalink: /cv/
+title: "Curriculum vitae"
+layout: cv
 ---
 
 
