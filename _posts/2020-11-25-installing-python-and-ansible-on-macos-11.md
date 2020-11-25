@@ -1,5 +1,3 @@
-# The correct way: Python and Ansible on MacOS
-
 I wrote this guide in the effort of documenting the steps I personally took to build a flexible python environment on MacOS 11 (Big Sur). This is in the pursuit of exploring network automation technologies such as Ansible, but is in no way limited to network engineers. In fact, I wrote this guide after sifting through many articles detailing ways that Python developers set up their own environments. I found the parts that made the most sense to me and have consolidated and re-styled them here for future reference.
 
 MacOS 11 actually comes with Python2.7 and Python3 by default, for use by the system, located in /usr/bin. From here on out we will refer to these as the *system* python environment. We do not want to tamper with this system python environment, so let's get started building a *dev* python environment.
