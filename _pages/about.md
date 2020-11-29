@@ -17,9 +17,11 @@ Some examples of the devices I work on or have worked on:
 * Juniper QFX5100
 * Juniper EX4300
 * Juniper SRX550M
+
 ## Arista Networks
 * Arista 7280TR
 * Arista 7050TX3
+
 ## Cisco Systems
 * Nexus N9K
 * Catalyst 6509
