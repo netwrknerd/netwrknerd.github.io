@@ -9,19 +9,19 @@ As an Engineer on the Network Planning & Architecture team, I primarily develop 
 
 Some examples of the devices I work on or have worked on:
 
-###Juniper
-    * Juniper MX960
-    * Juniper MX480
-    * Juniper QFX5100
-    * Juniper EX4300
-    * Juniper SRX550M
+### Juniper Networks
+* Juniper MX960
+* Juniper MX480
+* Juniper QFX5100
+* Juniper EX4300
+* Juniper SRX550M
 
-###Arista
-    * Arista 7280TR
-    * Arista 7050TX3
+### Arista Networks
+* Arista 7280TR
+* Arista 7050TX3
 
-###Cisco
-    * Nexus N9K
-    * Catalyst 6509
+### Cisco Systems
+* Nexus N9K
+* Catalyst 6509
 
 I am experienced in a wide range of networking technologies, specifically routing and bridging, and have earned Cisco's CCNA Enterprise certification. I am actively pursuing Juniper's JNCIS-SP certification.
