@@ -3,8 +3,25 @@ permalink: /about/
 title: "About"
 ---
 
-Welcome to my website! This page acts as a living, digital resume that I can easily update for the world to see. I’m constantly learning new technologies and experiencing new responsibilities in my role at Expedient. This makes it easier to keep everyone updated along the way.
+Hi! I'm Chris, and this is my blog. I've started this blog because I have an immense interest in computer networking and love to share it with anyone who will listen. I plan to use this medium to express my interests, while also sharing my experiences as a Network Engineer for Expedient Data Centers.
 
-As an Engineer on the Network Planning & Architecture team, I spend most of my days developing MoPs (methods of procedures) outlining step-by-step how to efficiently keep our core networking infrastructure up to date. I then execute these strategies at night during change control windows, outside of business hours.  This core infrastructure consists primarily of Juniper MX core routers, Arista DCS colocation switches, and Juniper QFX spines. On occasion I also travel to execute physical cable migrations and chassis installations at various data centers. These facilities operate 24/7 to support various companies across the globe.
+As an Engineer on the Network Planning & Architecture team, I primarily develop MoPs (methods of procedure) outlining how to efficiently keep our core networking infrastructure up to date. I execute these MoPs during change control windows, outside of business hours. This requires me to be flexible with my schedule and adapt to the projects that are currently a priority. On occasion I also travel to perform physical cable migrations and chassis installations at various data center facilities. These facilities operate 24/7 to support various companies across the globe.
 
-I am experienced in a wide range of developing technologies, specifically routing and bridging, and have earned Cisco's CCNA Enterprise certification. I am actively pursuing Juniper's JNCIS-SP certification.
+Some examples of the devices I work on or have worked on:
+
+###Juniper
+    * Juniper MX960
+    * Juniper MX480
+    * Juniper QFX5100
+    * Juniper EX4300
+    * Juniper SRX550M
+
+###Arista
+    * Arista 7280TR
+    * Arista 7050TX3
+
+###Cisco
+    * Nexus N9K
+    * Catalyst 6509
+
+I am experienced in a wide range of networking technologies, specifically routing and bridging, and have earned Cisco's CCNA Enterprise certification. I am actively pursuing Juniper's JNCIS-SP certification.
